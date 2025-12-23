@@ -4,6 +4,7 @@ By proceeding, you acknowledge that the materials within this vault are propriet
 
 # Public-Clarification-of-Intent-and-Interpretive-Boundaries
 Public registration of the SSPS Governance Clarification issued under the RBGA framework. Defines sovereign authorship, governance boundaries, licensing requirements, and non‑governance obligations for the SSPS IP Stack.
+
 ⚠️ PROPRIETARY RIGHTS NOTICE — INFRASTRUCTURE PROTECTION This repository contains proprietary infrastructure owned by Southern Star Pro Studios L.L.C. All materials are protected under applicable copyright, trade secret, and intellectual property laws.
 
 No license is granted to use any portion of this repository for any purpose without prior written authorization and licensing from Southern Star Pro Studios L.L.C.
